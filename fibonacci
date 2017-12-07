@@ -1,0 +1,15 @@
+def fibo(n):
+if n<0:
+print("enter the crt no")
+else n=1:
+return 1
+else :
+return (fibo(n-1)+fibo(n-2))
+
+num=int(input("enter the number:"))
+if num<0:
+print("enter the crt no:")
+else 
+print("fibonacci series")
+for i in range(num):
+return (fibo(i))
